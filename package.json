@@ -1,0 +1,24 @@
+{
+  "name": "three-s-a-crowd",
+  "version": "1.0.0",
+  "description": "Three Js documentation and Sample Mini Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmyomet/Three-s-A-Crowd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmyomet/Three-s-A-Crowd/issues"
+  },
+  "homepage": "https://github.com/edmyomet/Three-s-A-Crowd#readme",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.163.0"
+  }
+}
