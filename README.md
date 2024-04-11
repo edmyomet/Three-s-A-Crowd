@@ -1,3 +1,3 @@
 # Three-s-A-Crowd
-Three Js documentation and Sample Mini Projects
+Some basic documentation and projects, nothing worthwhile to see. 
 
